@@ -4,7 +4,7 @@
     {
         public const int DefaultBoardWith = 8;
         public const int DefaultBoardLength = 8;
-        public const int DefaultShipLength = 8;
+        public const int DefaultShipSize = 3;
         public const StarterPlayer Starter = StarterPlayer.Random;
     }
 
