@@ -7,7 +7,6 @@ namespace Battleship
         public static int BoardWidth { get; set; }
         public static int BoardLength { get; set; }
         public static int ShipSize { get; set; }
-        public static StarterPlayer Starter { get; set; }
 
         static void Main(string[] args)
         {
